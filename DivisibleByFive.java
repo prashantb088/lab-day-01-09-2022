@@ -19,7 +19,7 @@ public class DivisibleByFive {
         Scanner scan = new Scanner(System.in);
         System.out.println("Divisible by 5 " );
         int no = scan.nextInt();
-        System.out.println("First 20 Divisible of 5 :");
+        System.out.println("First 20 Divisible of 5 ");
 
 
         //Demonstration of Stream Iterate,filter method,limit method and foeEach method
